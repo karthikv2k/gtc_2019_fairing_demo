@@ -1,0 +1,11 @@
+jupyter
+pandas
+joblib
+numpy
+xgboost
+sklearn
+seldon-core
+tensorflow-gpu
+cloudml-hypertune
+torchvision
+munch
